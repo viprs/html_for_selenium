@@ -1,2 +1,3 @@
 # html_for_selenium
-Selenium API 操作HTML 页面元素
+
+* Web自动化，Selenium 操作HTML元素实例
